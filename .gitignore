@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Environments
+venv/
+env/
+.env/
+.venv/
+.env
+
+# Database
+db.sqlite3
+*.sqlite3
+
+# Media and Static Files (if managed separately or generated)
+media/
+static_collected/ # Or whatever your COLLECTSTATIC_DIRS are
+
+# IDE-specific files (e.g., PyCharm)
+.idea/
+*.iml
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
