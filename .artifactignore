@@ -1,0 +1,10 @@
+.git/
+.gitignore
+venv/
+.venv/
+.env
+local_settings.py
+db.sqlite3
+__pycache__/
+*.pyc
+.pytest_cache/
